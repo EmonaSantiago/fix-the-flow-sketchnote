@@ -5,6 +5,9 @@
 
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
+Navigeren op het web.
+De kracht van CSS met Cyp Stumpel.
+<img width="1440" alt="[De Krache.pdf](https://github.com/EmonaSantiago/fix-the-flow-sketchnote/files/7835876/De.Krache.pdf)">
 
 ## Licentie
 
