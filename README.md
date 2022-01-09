@@ -8,7 +8,7 @@
 Navigeren op het web.
 De kracht van CSS met Cyp Stumpel.
 
-scr="https://github.com/EmonaSantiago/fix-the-flow-sketchnote/files/7835884/De.Krache.pdf">
+<img scr="https://github.com/EmonaSantiago/fix-the-flow-sketchnote/files/7835884/De.Krache.pdf">
 
 ## Licentie
 
