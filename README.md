@@ -4,86 +4,21 @@
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 Mijn Sketchnote opdrachten. 
 
-## Navigeren op het web (De karcht van CSS met Cyd Stumpel).
+# Navigeren op het web (De karcht van CSS met Cyd Stumpel).
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
 Navigeren op het web.
+Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 De kracht van CSS met Cyp Stumpel.
 
 <img width="818" alt="Schermafbeelding sketchnote" src="https://user-images.githubusercontent.com/90447045/148700264-18699f19-d3a8-455d-8755-7708e56ddbb9.png">
 
-## "We Love Web Talk"
-# Fix the Flow - Sketchnote
-
-Maak een sketchnote van de "We love Web talk" van vrijdag 17 december.
-
-## Context
-
-Deze leertaak hoort bij sprint 5 "Fix the Flow". 
-Dit is een deeltaak die je individueel uitvoert. 
 
 
-## Doel van deze opdracht
+# "We Love Web Talk"
+## Fix the Flow - Sketchnote
 
-Je oefent in het maken van een visueel verslag (sketchnote). 
-
-
-## Werkwijze
-
-Opdracht: maak een sketchnote van de talk van Cyd Stumpel (de We love Web sessie van 17 december).
-
-Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
-
-### Analyseren
-
-In de analysefase bereid je de sketchnote voor.
-
-<details>
-<summary>Aanpak</summary>
-
-   Voor de talk begint.
-   
-   Teken het volgende:
-
-1. Een titel (zie hiervoor de oefening tijdens de workshop).
-2. Een simpel portretje van de persoon die de talk geeft (zie hiervoor de oefening tijdens de workshop).
-3. De datum en tijd.
-4. Een plan voor je typografie (zie hiervoor de oefening tijdens de workshop).
-5. Een plan voor je 'chuncks' met informatie (zie hiervoor de oefening tijdens de workshop).
-    
-
-
-#### Materiaal analysefase
-
-- [What is sketchnoting?](https://www.youtube.com/watch?v=4ItcHag3agE)
-- [How To Do Sketchnoting (Even If You "Can't Draw"!)](https://www.youtube.com/watch?v=evLCAYlx4Kw)
-
-
-</details>
-
-### Ontwerpen
-
-In de ontwerpfase maak je aantekeningen tijdens de talk om ze vervolgens uit te werken in een heldere, kernachtige sketchnote.
-
-<details>
-<summary>Aanpak</summary>
-
-Tijdens de talk:
-
-   Leg in kernwoorden en tekeningen de belangrijkste informatie vast op post-its (of meteen op papier, als je durft).
-   
-Na de talk:
-
-   1. Werk de sketchnote uit.
-   2. Pas hierarchie toe dmv: 
-   Typografie (gebruik bijvoorbeeld verschillende lijndiktes en grootte).
-   Kleur (gebruik het functioneel en maximaal twee kleuren).
-
-#### Materiaal ontwerpfase
-
-- [What is sketchnoting?](https://www.youtube.com/watch?v=4ItcHag3agE)
-- [How To Do Sketchnoting (Even If You "Can't Draw"!)](https://www.youtube.com/watch?v=evLCAYlx4Kw)
-
-</details>
+Een sketchnote van de "We love Web talk" van vrijdag 17 december.
+Het doel is oefenen in het maken van een visueel verslag (sketchnote). 
 
 
 ## Criteria
